@@ -1,4 +1,4 @@
-# Finnbar's Family secret recipes
+# Finnbar's Family mysterious recipes
 
 Set of recipes as given by my grandma
 
